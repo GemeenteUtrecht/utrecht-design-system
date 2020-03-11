@@ -1,0 +1,28 @@
+{
+  "name": "utrecht-design-system",
+  "version": "0.1.0",
+  "description": "Re-usable components for web/app layouts, for Gemeente Utrecht",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GemeenteUtrecht/utrecht-design-system.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "es6",
+    "es7",
+    "utrecht",
+    "components",
+    "bem"
+  ],
+  "author": "Gemeente Utrecht",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/GemeenteUtrecht/utrecht-design-system/issues"
+  },
+  "homepage": "https://github.com/GemeenteUtrecht/utrecht-design-system#readme"
+}
